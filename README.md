@@ -20,5 +20,5 @@ AutoRatter is especially useful when determining whether a player still has thei
 
 1. **Install:**  Follow the [installation guide](INSTALLATION.md).
 2. **Set Up:** Type `/ar` or `/autoratter` in-game to configure your settings.
-3. **Load Keys:** Load your Hypixel API key to enable player scanning. [[Guide]](LOAD_API_KEYS.md).
+3. **Load Keys:** Load your Hypixel API key to enable player scanning. [[Guide]](LOAD_API_KEYS.md)
 4. **Explore:** See all the features [here](FEATURE_LIST.md).
