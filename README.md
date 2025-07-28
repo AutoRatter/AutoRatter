@@ -12,7 +12,7 @@ Using AutoRatter you have access to:
 * **World Scanning:** Scan islands for valuable items inside of item frames, armor stands, and showcase blocks.
 * **Item Highlighting:** Hightlight valuable items in the inventory to see at a glace what items are special.
 * **Item Tooltips:** Add many useful features to item tooltips and lore such as timestamps, hex codes, and seymour piece values.
-* [And **much** more!](FEATURE_LIST.md)
+* [And **many** more features!](FEATURE_LIST.md)
 
 AutoRatter is especially useful when determining whether a player still has their exotic items, one scan and you know exactly where they are.
 
@@ -20,4 +20,5 @@ AutoRatter is especially useful when determining whether a player still has thei
 
 1. **Install:**  Follow the [installation guide](INSTALLATION.md).
 2. **Set Up:** Type `/ar` or `/autoratter` in-game to configure your settings.
-3. **Explore:** See all the features [here](FEATURE_LIST.md).
+3. **Load Keys:** Load your Hypixel API key to enable player scanning. (LOAD_API_KEYS.md).
+4. **Explore:** See all the features [here](FEATURE_LIST.md).
