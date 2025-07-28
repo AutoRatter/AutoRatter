@@ -1,47 +1,23 @@
-```md
-# AutoRatter Installation Guide
+<h1 align="center">
+  AutoRatter Lobby Scanner
+</h1>
 
-# Step 1. Install Forge
-> Forge Website: (https://files.minecraftforge.net/net/minecraftforge/forge/
-OR
-> Direct link: https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar
+## What it does
 
-#Step 2. Install AutoRatter
-# Option 1: Automatic Install
-> Download Installer .jar from https://github.com/AutoRatter/AutoRatter/releases
-Place .jar File Here => %{YourLauncherFolder}%/mods/
-Then Start/Restart the game.
+AutoRatter is a ChatTriggers module for Minecraft 1.8.9 (and soon Fabric 1.21.5) that adds many useful features for sniping in [Hypixel SkyBlock](https://wiki.hypixel.net/Main_Page).
 
-=====
+Using AutoRatter you have access to:
+* **Lobby Scanning:** Scan an entire lobby at once for all valuable items such as exotics, OG Fairy, crystal, and even skins or seymour.
+* **Player Scanning:** Scan a single player's profile for all valuable items such as exotics, OG Fairy, crystal, and even skins or seymour.
+* **World Scanning:** Scan islands for valuable items inside of item frames, armor stands, and showcase blocks.
+* **Item Highlighting:** Hightlight valuable items in the inventory to see at a glace what items are special.
+* **Item Tooltips:** Add many useful features to item tooltips and lore such as timestamps, hex codes, and seymour piece values.
+* [And **much** more!](FEATURE_LIST.md)
 
-# Option 2: Manual Install
-# Download and Install ChatTrigger from https://www.chattriggers.com/#download
-Place .jar File Here => %{YourLauncherFolder}%/mods/
-Or the specific folder for your launcher
+AutoRatter is especially useful when determining whether a player still has their exotic items, one scan and you know exactly where they are.
 
-# Download the AutoRatter Zip from https://github.com/AutoRatter/AutoRatter/releases
-Unzip the AutoRatter Folder and Place it Here => %{YourLauncherFolder}%/config/ChatTriggers/modules/
-> Make sure to unzip the file (Use 7-zip, WinRAR, etc)
+## Getting Started
 
-# Optional: Install Module Dependencies (Only download if not auto-installed)
-> Download Dependencies from https://github.com/AutoRatter/AutoRatter/releases
-OR
-> Download all separately
-ClickGui - https://www.chattriggers.com/modules/v/ClickGui
-FileUtilities - https://www.chattriggers.com/modules/v/FileUtilities
-Lore - https://www.chattriggers.com/modules/v/Lore
-PogData - https://www.chattriggers.com/modules/v/PogData
-PromiseV2 - https://chattriggers.com/modules/v/PromiseV2
-RenderLib - https://chattriggers.com/modules/v/RenderLib
-RenderLibV2 - https://www.chattriggers.com/modules/v/RenderLibV2 (Need both RenderLib and RenderLibV2)
-requestv2 - https://www.chattriggers.com/modules/v/requestv2
-Vigilance - https://www.chattriggers.com/modules/v/Vigilance
-
-# Place Unzipped Module Folders Here => %{YourLauncherFolder}%/config/ChatTriggers/modules/
-> Make sure to unzip the files (Use 7-zip, WinRAR, etc)
-
-# Step 3. Loading the Mod
-> Use the command `/ct reload` in-game
-OR
-> Restart the game
-```
+1. **Install:**  Follow the [installation guide](INSTALLATION.md).
+2. **Set Up:** Type `/ar` or `/autoratter` in-game to configure your settings.
+3. **Explore:** See all the features [here](FEATURE_LIST.md).
